@@ -52,7 +52,7 @@ And the following in your JavaScript manifest file.
 //= require bootstrap-sprockets
 ```
 
-That's it! Now we have Boostrap ready to go, and any additional updates only require a `bundle update`.
+That's it! Now we have Bootstrap ready to go, and any additional updates only require a `bundle update`.
 
 ## Using Bootstrap
 Let's say you've created an amazing design for your web application. You tweaked the margins and padding just right, and the content aligned just the way you want. The whole time you've had your browser in full screen so you decide to shrink your browser window to see what happens only to discover that your awesome design doesn't look so awesome now. Next, you take out your phone and browse to your application. To your dismay, your website is even worse on your phone. It's hard to read and requires a ton of scrolling and zooming to see anything.
@@ -110,3 +110,5 @@ From here, there are a lot of different ways we could configure our grid to resp
 - [media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline' title='Bootstrap Asset Pipeline'>Bootstrap Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/bootstrap-asset-pipeline'>Bootstrap and the Asset Pipeline</a> on Learn.co and start learning to code for free.</p>
